@@ -1,6 +1,6 @@
 import axios from "axios";
-BASE_URL = 'https://pixabay.com/api/';
-API_KEY = '29425160-9db241c351837afee1f7453f7';
+const BASE_URL = 'https://pixabay.com/api/';
+const API_KEY = '29425160-9db241c351837afee1f7453f7';
 
 const options = {
     image_type: 'photo',
